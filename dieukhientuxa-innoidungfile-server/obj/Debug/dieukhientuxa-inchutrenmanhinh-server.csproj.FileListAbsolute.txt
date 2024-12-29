@@ -1,0 +1,10 @@
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\bin\Debug\dieukhientuxa-inchutrenmanhinh-server.exe.config
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\bin\Debug\dieukhientuxa-inchutrenmanhinh-server.exe
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\bin\Debug\dieukhientuxa-inchutrenmanhinh-server.pdb
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa-inchutrenmanhinh-server.csproj.AssemblyReference.cache
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa_inchutrenmanhinh_server.Form1.resources
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa_inchutrenmanhinh_server.Properties.Resources.resources
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa-inchutrenmanhinh-server.csproj.GenerateResource.cache
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa-inchutrenmanhinh-server.csproj.CoreCompileInputs.cache
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa-inchutrenmanhinh-server.exe
+E:\socket\dieukhientuxa-inchutrenmanhinh-server\obj\Debug\dieukhientuxa-inchutrenmanhinh-server.pdb

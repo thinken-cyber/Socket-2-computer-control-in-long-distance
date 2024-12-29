@@ -1,0 +1,10 @@
+E:\socket\dieukhientuxa-tatmay-server\bin\Debug\dieukhientuxa-tatmay-server.exe.config
+E:\socket\dieukhientuxa-tatmay-server\bin\Debug\dieukhientuxa-tatmay-server.exe
+E:\socket\dieukhientuxa-tatmay-server\bin\Debug\dieukhientuxa-tatmay-server.pdb
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa-tatmay-server.csproj.AssemblyReference.cache
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa_tatmay_server.Form1.resources
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa_tatmay_server.Properties.Resources.resources
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa-tatmay-server.csproj.GenerateResource.cache
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa-tatmay-server.csproj.CoreCompileInputs.cache
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa-tatmay-server.exe
+E:\socket\dieukhientuxa-tatmay-server\obj\Debug\dieukhientuxa-tatmay-server.pdb
