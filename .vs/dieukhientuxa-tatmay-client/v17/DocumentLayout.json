@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\socket\\dieukhientuxa-tatmay-client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45FE3BA-2DE6-4384-B99F-821962E9E9E2}|dieukhientuxa-tatmay-client.csproj|e:\\socket\\dieukhientuxa-tatmay-client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45FE3BA-2DE6-4384-B99F-821962E9E9E2}|dieukhientuxa-tatmay-client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45FE3BA-2DE6-4384-B99F-821962E9E9E2}|dieukhientuxa-tatmay-client.csproj|E:\\socket\\dieukhientuxa-tatmay-client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D45FE3BA-2DE6-4384-B99F-821962E9E9E2}|dieukhientuxa-tatmay-client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\socket\\dieukhientuxa-tatmay-client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\socket\\dieukhientuxa-tatmay-client\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:46:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\socket\\dieukhientuxa-tatmay-client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\socket\\dieukhientuxa-tatmay-client\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:38:10.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
